@@ -1,4 +1,4 @@
-# 技术博客
+# blog
 
 ## Project setup
 ```
